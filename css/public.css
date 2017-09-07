@@ -1,0 +1,154 @@
+body {
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+
+.logo {
+	margin-left: 100px;
+	float: left;
+}
+
+.frist {
+	float: right;
+	margin-right: 200px;
+}
+
+.fr {
+	color: darkgray;
+}
+
+hr {
+	size="2";
+	float: none;
+	margin-bottom: 2cm;
+}
+
+.blue_d {
+	text-decoration: none;
+}
+
+.help {
+	float: right;
+	padding: 0 6px;
+	position: relative;
+	z-index: 1010;
+	margin-left: 25px;
+	background-image: url(../img/1.png);
+	background-position: 1300px 10px;
+	background-repeat: no-repeat;
+}
+
+.help1 {
+	color: black;
+	text-decoration: none;
+}
+
+.hd_menu_list {
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	right: 0;
+	width: 98px;
+	padding-top: 21px;
+	border: 1px;
+}
+
+.imgLink {
+	float: none;
+	position: absolute;
+	top: 150px;
+	left: 200px;
+}
+.denglu {
+	width: 350px;
+	height: 400px;
+	/*border: 1px solid red;*/
+	border-radius: 4px;
+	margin-top: 130px;
+	box-shadow: 0px 0px 20px whitesmoke;
+	float: none;
+	position: absolute;
+	left: 700px;
+}
+
+.denglu1 {
+	float: left;
+	font-size: 15px;
+	color: darkgray;
+}
+
+.regist_newblue_link {
+	text-decoration: none;
+	float: right;
+	margin-top: 15px;
+}
+
+.username {
+	float: none;
+	margin-top: 50px;
+	size: 120px;
+}
+
+input {
+	width: 350px;
+	height: 50px;
+}
+
+.logon {
+	float: none;
+	width: 13px;
+	height: 13px;
+	margin-top: 11px;
+}
+
+.pwdthrow {
+	float: right;
+	margin-top: -20px;
+}
+
+.foot {
+	position: absolute;
+	bottom: 80px;
+	left: 500px;
+	font-size: 12px;
+}
+
+.foot1 {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: red;
+}
+
+h2 {
+	color: dimgray;
+}
+
+.zhuce {
+	width: 350px;
+	height: 400px;
+	border-radius: 4px;
+	margin-top: 90px;
+	box-shadow: 0px 0px 20px whitesmoke;
+	float: none;
+	position: absolute;
+	left: 500px;
+}
+
+.zhuce1 {
+	float: right;
+	margin-right: 130px;
+}
+
+.blue {
+	text-decoration: none;
+}
+
+.foot2 {
+	position: absolute;
+	bottom: -30px;
+	left: 500px;
+	font-size: 12px;
+}
